@@ -1,0 +1,122 @@
+html { 
+  font-family: monospace;
+}
+body{ 
+  padding: 30px;
+}
+h1 { 
+  font-size: 3em;
+}
+button { 
+  background-color: #FF4A47;
+  color: #FFFFFF;
+  border-style: none;
+  width: 171px;
+  height: 77px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 500;
+  margin-right: 60px;
+}
+button:hover { 
+  background-color: #f76c69; 
+  transform: scale(1.1);
+}
+p {
+   font-size: 24px;
+}
+b { 
+  color: #FF4A47;
+}
+.nyu{ 
+  color: #FF4A47;
+  text-decoration: none;
+  transition: all 2 ease;
+}
+.nyu:hover{ 
+  color: #57068c
+  
+}
+
+.switch { 
+  width: 119px;
+  height: 56px;
+  border-radius: 75px;
+  background-color: #474a52;
+}
+.switch:hover { 
+  background-color: #2f3035;
+}
+
+
+.moon { 
+  width: 40px;
+  height: 37px;
+  margin-right: 65px;
+  margin-top: 5px;
+  filter: invert(100%) sepia(100%) saturate(38%) hue-rotate(321deg) brightness(110%) contrast(110%);
+}
+.personalIcons{ 
+  filter: invert(51%) sepia(90%) saturate(4237%) hue-rotate(335deg) brightness(103%) contrast(102%);
+}
+img { 
+  width: 32px;
+  height: 32px;
+}
+h3 { 
+  color:#FF4A47;
+  text-decoration: underline;
+  font-size: 32px;
+}
+.aboutMe{ 
+  margin-right: 1000px;
+}
+.me { 
+  width: 490px;
+  height: 520px;
+  border-radius: 93px;
+  position: relative;
+  left: 1000px;
+  bottom: 1070px;
+}
+.profileBG { 
+  width: 490px;
+  height: 520px;
+  background-color: #ffffff;
+  position: relative;
+  left: 1050px;
+  bottom: 480px;
+  border-radius: 93px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #FF4A47;
+}
+.personalIcons { 
+  position: relative;
+  bottom: 1060px;
+  left: 1190px; 
+}
+
+.github { 
+  margin-right: 40px;
+}
+.github:hover { 
+  transform: scale(1.1);
+}
+.linkedIn { 
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.linkedIn:hover { 
+  transform: scale(1.1);
+}
+.twitter { 
+  margin-left: 40px;
+}
+.twitter:hover{ 
+  transform: scale(1.1);
+}
+a { 
+  margin: 0%;
+  padding: 0%;
+}
